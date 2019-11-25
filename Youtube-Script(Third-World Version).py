@@ -14,7 +14,7 @@ home = os.path.expanduser('~')
 
 #Format and download destination just as specifying only title and extension to appear in name
 y = {
-    'format':'bestvideo[height<=480]+bestaudio/best[height<=480]',
+    'format':'bestvideo[height<=360]+bestaudio/best[height<=360]',
     'postprocessors': [{
         'key': 'FFmpegVideoConvertor',
         'preferedformat': 'mp4',
