@@ -38,3 +38,5 @@ python3 'YouTube-Script(Third-World Version).py'
 ```
 
 Then follow the instructions.
+
+A more easy-to-use version coming *soon*.
