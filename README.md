@@ -6,6 +6,7 @@ The point of this script is to save bandwidth when downloading YouTube videos, i
 ## Dependencies
 You will need to have [youtube-dl](https://github.com/ytdl-org/youtube-dl) installed.
 
+
 From their README:
 
 To install it right away for all UNIX users (Linux, macOS, etc.), type:
@@ -38,5 +39,6 @@ python3 'YouTube-Script(Third-World Version).py'
 ```
 
 Then follow the instructions.
+
 
 A more easy-to-use version coming *soon*.
