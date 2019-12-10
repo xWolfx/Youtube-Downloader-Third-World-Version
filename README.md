@@ -3,6 +3,7 @@ Script to download Youtube videos using youtube-dl in an easy way. Third-World v
 
 The point of this script is to save bandwidth when downloading YouTube videos, instead of getting the highest possible quality and transforming to mp4, this script will only download 360p or lower resolution videos, in case 360p is not available.
 
+
 ## Dependencies
 You will need to have [youtube-dl](https://github.com/ytdl-org/youtube-dl) installed.
 
@@ -31,6 +32,7 @@ On Debian based distributions, you can simply paste:
 sudo apt install ffmpeg
 ```
 
+
 ## Usage
 If the script is in your home folder. Simply open your terminal and paste:
 
@@ -39,6 +41,7 @@ python3 'YouTube-Script(Third-World Version).py'
 ```
 
 Then follow the instructions.
+
 
 
 A more easy-to-use version coming *soon*.
